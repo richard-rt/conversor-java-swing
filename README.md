@@ -1,6 +1,6 @@
 # Obejtivo do projeto
 
-* Chelenge Back end  Java da alura, com o objetivo de criar um conversor de moedas e conversor de temperatura, utilizando a biblioteca javax.swing que possibilita a criação de aplicações com uma interface 2D.
+* Chellenge Back End Java da alura, com o objetivo de criar um conversor de moedas e conversor de temperatura, utilizando a biblioteca javax.swing que possibilita a criação de aplicações com uma interface 2D.
 
 ## View Application
 
