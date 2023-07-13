@@ -1,4 +1,4 @@
-# Obejtivo do projeto
+# Objetivo do projeto
 
 * Chellenge Back End Java da alura, com o objetivo de criar um conversor de moedas e conversor de temperatura, utilizando a biblioteca javax.swing que possibilita a criação de aplicações com uma interface 2D.
 
